@@ -1,5 +1,4 @@
-copper = {
-    'species': 'guinea pig',
-    'age': 2
+my_graph = {
+    'A': 'B',
+    'B': 'A'
 }
-print(copper['species'])
